@@ -5,6 +5,3 @@ Author: Majumder Jimmy_20966065, Obada Al aama_19899019, Dian Christy Silpani_20
 Graduate School of Life Science and Systems Engineering,
 Department of Human Intelligence Systems,
 at Kyushu Institute of Technology, Japan. 
-
-
-
